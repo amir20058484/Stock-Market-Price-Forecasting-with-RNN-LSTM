@@ -136,11 +136,3 @@ The **LSTM model consistently achieved lower error values** compared to the RNN 
 * MCI Bootcamp Project
 
 ---
-
-اگر خواستی:
-
-* README رو فارسی کنم
-* یا نسخه حرفه‌ای‌تر برای رزومه / پورتفولیو بنویسم
-* یا badge و لینک Kaggle اضافه کنم
-
-بگو 👌
